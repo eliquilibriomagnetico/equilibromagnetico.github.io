@@ -1,0 +1,7 @@
+.elementor-129 .elementor-element.elementor-element-cbdae99:not(.elementor-motion-effects-element-type-background), .elementor-129 .elementor-element.elementor-element-cbdae99 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
+.elementor-129 .elementor-element.elementor-element-cbdae99 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-129 .elementor-element.elementor-element-cbdae99 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-129 .elementor-element.elementor-element-bc88105 .elementor-heading-title {font-family: "Merriweather";font-size: 32px;font-weight: 600;}
+.elementor-129 .elementor-element.elementor-element-ee54da1 .elementor-heading-title {font-family: "Merriweather";font-size: 32px;font-weight: 600;}
+@media (max-width:767px) {.elementor-129 .elementor-element.elementor-element-bc88105 .elementor-heading-title {font-size: 24px;}
+	.elementor-129 .elementor-element.elementor-element-ee54da1 .elementor-heading-title {font-size: 24px;}}
